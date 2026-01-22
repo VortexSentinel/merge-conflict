@@ -1,15 +1,10 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
+#include <stdio.h>
 
-Initial Security()
-{
- //Sample Code
-}
-
-
-
+int main() {
+    printf("Hello World\n");
+    
+    // Feature 1: User authentication
+    printf("Feature 1: User Authentication Added\n");
+    
+    return 0;
 }
