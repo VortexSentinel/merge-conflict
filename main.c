@@ -1,15 +1,10 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
+#include <stdio.h>
 
-Initial Security()
-{
- //Sample Code
-}
-
-
-
+int main() {
+    printf("Hello World\n");
+    
+    // Feature 2: Database integration
+    printf("Feature 2: Database Integration Added\n");
+    
+    return 0;
 }
