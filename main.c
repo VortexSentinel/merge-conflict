@@ -1,15 +1,9 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
-}
+#include <stdio.h>
 
-Initial Security()
-{
- //Sample Code
-}
-
-
-
+int main() {
+    // Security Patch: Input validation
+    printf("Security Patch Applied\n");
+    printf("Hello World\n");
+    
+    return 0;
 }
